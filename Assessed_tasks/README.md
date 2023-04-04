@@ -43,7 +43,7 @@ This file demonstrates the Breadth-First Search (BFS) algorithm on a given graph
 
 **Key Functions:**
 
-`bfs(self, start_vertex)`: Performs Breadth-First Search starting from a given vertex.
+* `bfs(self, start_vertex)`: Performs Breadth-First Search starting from a given vertex.
 
 ## STD_3.py
 
